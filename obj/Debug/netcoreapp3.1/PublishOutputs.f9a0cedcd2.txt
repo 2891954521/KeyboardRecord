@@ -1,0 +1,6 @@
+C:\Users\28919\Desktop\新建文件夹\KeyboardRecord.exe
+C:\Users\28919\Desktop\新建文件夹\KeyboardRecord.dll
+C:\Users\28919\Desktop\新建文件夹\KeyboardRecord.deps.json
+C:\Users\28919\Desktop\新建文件夹\KeyboardRecord.runtimeconfig.json
+C:\Users\28919\Desktop\新建文件夹\KeyboardRecord.pdb
+C:\Users\28919\Desktop\新建文件夹\zh-Hans\KeyboardRecord.resources.dll

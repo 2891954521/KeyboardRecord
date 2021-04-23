@@ -1,0 +1,6 @@
+C:\Users\28919\Desktop\KeyboardRecord.exe
+C:\Users\28919\Desktop\KeyboardRecord.dll
+C:\Users\28919\Desktop\KeyboardRecord.deps.json
+C:\Users\28919\Desktop\KeyboardRecord.runtimeconfig.json
+C:\Users\28919\Desktop\KeyboardRecord.pdb
+C:\Users\28919\Desktop\zh-Hans\KeyboardRecord.resources.dll
